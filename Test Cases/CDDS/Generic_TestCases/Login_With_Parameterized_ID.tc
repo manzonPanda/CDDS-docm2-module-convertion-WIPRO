@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_With_Parameterized_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d46b6668-3f05-437a-ba2e-5e16481fdd31</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6428ce74-cda9-41d8-ae1a-c2f5ae96a0e6</id>
+      <masked>false</masked>
+      <name>Login_Id</name>
+   </variable>
+</TestCaseEntity>

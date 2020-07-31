@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30cdeb8a-5c3f-4776-9dd2-12bc71143bb8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a66f3d3-16dd-4f85-a715-21293aaf3456</id>
+      <masked>false</masked>
+      <name>Company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d405ff2f-7654-4b0b-9271-5c66701e0059</id>
+      <masked>false</masked>
+      <name>BusinessUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79ffb7f8-6717-4ec8-99ca-1475ea1f3570</id>
+      <masked>false</masked>
+      <name>AID_XID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5c73eb0c-24ca-49e9-ac51-abd58ca375d3</id>
+      <masked>false</masked>
+      <name>CDDSRoles</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a848616-1bd3-47d0-b912-2d756be9cada</id>
+      <masked>false</masked>
+      <name>FileSite</name>
+   </variable>
+</TestCaseEntity>

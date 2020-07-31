@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3.Changing Bug View to Short View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38c5efff-a928-4878-992c-d1ac84288c28</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3662360e-3f61-4e45-b226-9593786d50bf</id>
+      <masked>false</masked>
+      <name>Project</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd4d6229-9ca8-468f-88c7-c3602566f030</id>
+      <masked>false</masked>
+      <name>Project_Header</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeliverableList_Iframe_Obj</name>
+   <tag></tag>
+   <elementGuidId>c2ff79ec-c0ed-4884-9dd1-4bf9e5efc169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@name=&quot;DRCHWDeliverableList&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@name=&quot;DRCHWDeliverableList&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

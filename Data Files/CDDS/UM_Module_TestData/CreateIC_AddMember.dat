@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CreateIC_AddMember</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3ff77e63-a658-44d8-9b8c-7fb2f51c3b42</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>DRCMyDesk IC UM_IC_0_Unique CDDS%3A+TI+Collaborative+Design+%26+Delivery+System</data>
+   <data>UMCMyDesk Groups ITS-DesignSystems Company+Search</data>
+   <data>null null _ CDDS%3A+Texas+Instruments+Collaborative+Design+%26+Delivery+System</data>
+   <data>null null ASIC+Engagement+Model Add+Members</data>
+   <data>null null - null</data>
+   <data>null null GS30 null</data>
+   <data>null null 1833C05.2+%28180+nm%29 null</data>
+   <data>null null TEST_HW_CLASS null</data>
+   <data>null null a0393993 null</data>
+   <data>null null ClearCase null</data>
+   <data>null null Request_ICPath null</data>
+   <data>null null development+path null</data>
+   <data>null null Customer+Specific null</data>
+   <data>null null Microsoft null</data>
+   <data>null null Request_IC_0_Abbrv null</data>
+   <data>null null BCM+HW null</data>
+   <data>null null Person null</data>
+   <data>null null a0393692 null</data>
+   <data>null null Secondary+Owner null</data>
+   <data>null null Req_Group_0_Unique null</data>
+   <data>null null TI null</data>
+   <data>null null Testing null</data>
+   <data>null null Member null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>MENU1</name>
+      <size>23</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>MENU2</name>
+      <size>23</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>TEXT</name>
+      <size>23</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>WINDOW_TITLE</name>
+      <size>23</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

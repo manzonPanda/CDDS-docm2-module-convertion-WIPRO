@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select classification and verify priority description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fe6b756-d531-4653-a3d9-77f7b9dd9b63</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30466eb3-06dd-4a5c-b41e-92c66b163acc</id>
+      <masked>false</masked>
+      <name>Title_Incident</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e06d806-2e59-4f9f-920c-93c403078224</id>
+      <masked>false</masked>
+      <name>Priority</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d044cabd-3945-4a52-ae57-ff7f3a573765</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddMember_Project_Access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fddea21-8063-4e56-8c3f-a03ed545369a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>384a3dc1-428d-408b-b7ba-548a341e9712</id>
+      <masked>false</masked>
+      <name>MemberType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5091e76c-cf6e-4a43-9d4f-d84e29e6eaba</id>
+      <masked>false</masked>
+      <name>SetMember</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2f163e9-e9d5-4da8-a074-eb97bf8f0f27</id>
+      <masked>false</masked>
+      <name>AccessType</name>
+   </variable>
+</TestCaseEntity>

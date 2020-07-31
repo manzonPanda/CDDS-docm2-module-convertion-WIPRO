@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ReleasePackage_RadioButton_Obj</name>
+   <tag></tag>
+   <elementGuidId>71f42875-a9a0-4757-8555-93a26ad75d7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;Component_Release_Package_Auto_Attachment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;Component_Release_Package_Auto_Attachment&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Folder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>978de3d8-5ee1-4892-9b40-3abdd1ebb89b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87c47c6c-6268-4623-8c51-83c0b8975ae2</id>
+      <masked>false</masked>
+      <name>FolderTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>567c0674-1d96-4141-875d-c4f496b2107f</id>
+      <masked>false</masked>
+      <name>BusinessUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02c9a1f6-8834-4e9b-925a-854e0c683a39</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>110fd094-a4bc-4305-86f5-c98d3ac0cc2f</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+</TestCaseEntity>

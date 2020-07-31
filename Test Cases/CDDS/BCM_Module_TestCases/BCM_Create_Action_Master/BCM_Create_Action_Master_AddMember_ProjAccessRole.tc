@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_Create_Action_Master_AddMember_ProjAccessRole</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fea399d8-8d0a-4383-9818-07953a592f83</testCaseGuid>
+</TestCaseEntity>

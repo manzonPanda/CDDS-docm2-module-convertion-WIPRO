@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Loading_Obj</name>
+   <tag></tag>
+   <elementGuidId>0b8fa63a-a5f1-4eb1-bcbc-8ea0503dbb00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table//div[@id='imgProgressDiv']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[@class=&quot;progress-indicator&quot;]//div[@id=&quot;imgProgressDiv&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[@class=&quot;progress-indicator&quot;]//div[@id=&quot;imgProgressDiv&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

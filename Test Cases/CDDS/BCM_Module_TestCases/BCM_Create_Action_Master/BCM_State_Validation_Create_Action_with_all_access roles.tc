@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Create_Action_with_all_access roles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae61002e-016e-4235-a0de-ad041beb933e</testCaseGuid>
+</TestCaseEntity>

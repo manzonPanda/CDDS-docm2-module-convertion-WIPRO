@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>BCM_IC</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a16c331d-ea35-4bb8-b1b1-e98635a70917</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>DRCMyDesk IC IC_Number F123359</data>
+   <data>Actions Create... Owning_BU PROC-HW</data>
+   <data>null null IC_Name IC_ITS_T12</data>
+   <data>null null IC_Variant 2</data>
+   <data>null null Eng_Model Default+IC</data>
+   <data>null null WorkFlow_Temp -</data>
+   <data>null null Library GS30</data>
+   <data>null null Technology 1833C05.2+%28180+nm%29</data>
+   <data>null null IP_Classification IC_DSPS</data>
+   <data>null null IC+Secondary+Owner s-rameshbabu2%40ti.com</data>
+   <data>null null BCM_Project Create+New+Project</data>
+   <data>null null ECCN 5A002+%28ENC+%3E+56b%29</data>
+   <data>null null CM_System ClearCase</data>
+   <data>null null CM_Path %2Fvobs%2FIC_ITS_T12</data>
+   <data>null null CM_PathType development+path</data>
+   <data>null null Description This+is++IC+created+for+testing.</data>
+   <data>null null IC_Category Internal</data>
+   <data>null null null null</data>
+   <data>null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Menu1</name>
+      <size>19</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Menu2</name>
+      <size>19</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>IC_Labels</name>
+      <size>19</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>IC1_Specifications</name>
+      <size>19</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

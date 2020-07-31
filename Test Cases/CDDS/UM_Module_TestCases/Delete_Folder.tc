@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete_Folder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24356a7f-7630-4243-9083-a40669eb4299</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdd82da2-4212-4312-8c90-c65951b22e2d</id>
+      <masked>false</masked>
+      <name>FolderTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43c879fb-a6eb-4c74-8fb3-d4f20c80ec38</id>
+      <masked>false</masked>
+      <name>BusinessUnit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>UploadBugs_In_Project_ThroughMassUpdate_For_Scenario2_Fixed-To-Verify-Closed</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>03bd681e-75ea-4345-9625-04e6297b04fa</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>BCMMassUpdate_Fixed-To-Verify-Closed-Scenario2.xls Closed</data>
+   <data>null Closed%3A</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>File_path</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>State</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

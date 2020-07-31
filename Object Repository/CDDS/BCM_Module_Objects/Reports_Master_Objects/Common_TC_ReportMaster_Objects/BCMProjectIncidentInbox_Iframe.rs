@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BCMProjectIncidentInbox_Iframe</name>
+   <tag></tag>
+   <elementGuidId>25b5a341-c700-484f-8b39-fa255eaf5b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@name = 'BCMProjectIncidentInbox']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@name=&quot;BCMProjectIncidentInbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>BCMProjectIncidentInbox</value>
+   </webElementProperties>
+</WebElementEntity>

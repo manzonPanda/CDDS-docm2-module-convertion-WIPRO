@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4.Uncheck Bug_Verify Properties</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be98a7d6-2ea7-4159-9ca6-36b565b115c2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a215726-914f-49e6-90b4-f28160d7c27b</id>
+      <masked>false</masked>
+      <name>ProjectName_Header</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be97f152-fa7f-4c40-b149-1e8f0f88f1b1</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Incident</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fddb95e6-570b-4282-9529-442d7327fb41</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24e33017-e48d-498d-b1ff-0b0b5ce5ccf7</id>
+      <masked>false</masked>
+      <name>Priority</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f87c141e-5a12-4345-9c09-d6965b822746</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0fc7b85f-38a1-4e34-bb1f-cc2693e99319</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

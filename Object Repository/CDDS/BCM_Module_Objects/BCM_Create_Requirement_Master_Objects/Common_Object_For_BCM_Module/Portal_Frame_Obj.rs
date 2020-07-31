@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Frame_Obj</name>
+   <tag></tag>
+   <elementGuidId>d7f62f35-d134-44ae-aab9-427ad72d9306</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@name=&quot;portalDisplay&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@name = 'portalDisplay']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>portalDisplay</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DRCContainerRelatedDOCMFolder_Iframe_Obj</name>
+   <tag></tag>
+   <elementGuidId>a3a5deab-039b-4cad-a85e-b1841a4f1f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@name=&quot;DRCContainerRelatedDOCMFolder&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@name=&quot;DRCContainerRelatedDOCMFolder&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

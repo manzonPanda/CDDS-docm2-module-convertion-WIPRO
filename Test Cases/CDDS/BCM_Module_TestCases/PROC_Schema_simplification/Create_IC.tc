@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_IC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f4a944d-69a0-4701-9c2f-5ea8244c49d3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>940e3317-5df3-4f77-acd9-17e5aae8afcc</id>
+      <masked>false</masked>
+      <name>IC_Name</name>
+   </variable>
+</TestCaseEntity>

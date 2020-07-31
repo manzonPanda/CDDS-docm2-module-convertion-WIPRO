@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Team_Inbox</name>
+   <tag></tag>
+   <comment>1.Criteria-Contains All,Keyword-PM_Test_Bug_5,Title-ON</comment>
+   <testCaseGuid>a50814c7-4c47-4d11-b6c6-8fab1153f456</testCaseGuid>
+</TestCaseEntity>

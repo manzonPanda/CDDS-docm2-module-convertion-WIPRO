@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Incident_Bug_add_Members</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5a676f4-6c17-4abb-b2aa-659459172710</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c68aac98-afd0-4f18-b8c2-15f3ecf7f828</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

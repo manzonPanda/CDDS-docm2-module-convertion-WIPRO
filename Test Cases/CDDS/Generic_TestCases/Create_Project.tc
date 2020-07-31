@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a0097d9-5d39-472c-9f67-32ef6ec6c03f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6cbb1db-236c-4f86-a2ae-876aa10d4033</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2596dcf8-6677-41f4-aa6f-0a856de3dc47</id>
+      <masked>false</masked>
+      <name>ProjectAbbreviation</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1c790d0-181f-4fec-a811-3376a38c627c</id>
+      <masked>false</masked>
+      <name>BusinessUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f939d02b-5bdb-437b-b3ad-b9242fc3805e</id>
+      <masked>false</masked>
+      <name>ProjectOwner</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5df600b-1427-4749-8bcb-68727ff91f33</id>
+      <masked>false</masked>
+      <name>AssociateSchema</name>
+   </variable>
+</TestCaseEntity>

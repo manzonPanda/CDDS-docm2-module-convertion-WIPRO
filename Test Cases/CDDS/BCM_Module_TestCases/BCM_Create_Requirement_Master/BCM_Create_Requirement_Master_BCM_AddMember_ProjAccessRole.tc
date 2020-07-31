@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_Create_Requirement_Master_BCM_AddMember_ProjAccessRole</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7ff0839-8736-4980-b87d-4f9855f0dea6</testCaseGuid>
+</TestCaseEntity>

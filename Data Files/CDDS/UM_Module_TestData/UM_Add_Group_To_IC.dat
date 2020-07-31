@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>UM_Add_Group_To_IC</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3dd117dc-ce81-4b7d-bf5e-2f38d59a12de</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>DRCMyDesk IC ITS-DesignSystems UM_IC_0 Add+Members</data>
+   <data>null null TEST_HW_CLASS UM_IC_1_0 CDDS%3A+Texas+Instruments+Collaborative+Design+%26+Delivery+System</data>
+   <data>null null Group CDDS_UM_Group_0 null</data>
+   <data>null null Secondary+Owner *CDDS null</data>
+   <data>null null null MCU_Analog_CDDS null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>MENU1</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>MENU2</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>SELECT</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>TEXT</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>WINDOW_TITLE</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

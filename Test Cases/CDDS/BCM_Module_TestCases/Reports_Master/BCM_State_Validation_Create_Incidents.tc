@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Create_Incidents</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2279527-bc4a-47cf-90e1-bee5ec35b832</testCaseGuid>
+</TestCaseEntity>

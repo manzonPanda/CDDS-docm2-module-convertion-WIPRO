@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Proc_Edit_Advanced_Report</name>
+   <tag></tag>
+   <comment>triming actual project name</comment>
+   <testCaseGuid>c808fd05-3c5c-45fe-b52c-15a5ee55331b</testCaseGuid>
+</TestCaseEntity>

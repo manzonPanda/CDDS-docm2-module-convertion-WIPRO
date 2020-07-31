@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>WindowTitle</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>adfda701-3101-4daa-afec-4d8bd61b92f7</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Add+Members</data>
+   <data>Search%3A+Project</data>
+   <data>Select+Approver%28s%29</data>
+   <data>Select+Folders</data>
+   <data>Select+Reviewer%28s%29</data>
+   <data>Search%3A+Documents+and+Unmanaged+Data</data>
+   <data>Move+to+Folder</data>
+   <data>Attach+Document</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>WindowName</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

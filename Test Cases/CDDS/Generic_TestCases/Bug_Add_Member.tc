@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bug_Add_Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c6f3b57-0168-4b13-b906-2ee977a1b29e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8667c433-90d8-4c20-b712-60724a9b2207</id>
+      <masked>false</masked>
+      <name>SetMember</name>
+   </variable>
+</TestCaseEntity>

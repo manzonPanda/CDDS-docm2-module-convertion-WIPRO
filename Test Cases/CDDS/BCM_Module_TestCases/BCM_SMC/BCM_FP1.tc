@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_FP1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f953a471-e836-457e-bf6d-56c4e02e6851</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46bdf850-0b47-4a45-bf84-146cb1d4f7b3</id>
+      <masked>false</masked>
+      <name>IC_Name1</name>
+   </variable>
+</TestCaseEntity>

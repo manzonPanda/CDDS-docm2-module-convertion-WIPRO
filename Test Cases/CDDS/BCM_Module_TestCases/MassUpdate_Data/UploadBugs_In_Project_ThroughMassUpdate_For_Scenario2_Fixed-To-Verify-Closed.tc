@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadBugs_In_Project_ThroughMassUpdate_For_Scenario2_Fixed-To-Verify-Closed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c873beb7-05c2-4105-9f43-5121537bf1f8</testCaseGuid>
+</TestCaseEntity>

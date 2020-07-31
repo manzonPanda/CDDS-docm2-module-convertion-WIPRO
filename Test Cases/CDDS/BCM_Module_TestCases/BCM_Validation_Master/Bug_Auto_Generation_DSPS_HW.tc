@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bug_Auto_Generation_DSPS_HW</name>
+   <tag></tag>
+   <comment>
+=========
+=========
+5.Keyword-Requirement_Approved_State,Title-ON,Type-Requirement</comment>
+   <testCaseGuid>f4c7f571-8699-42df-aec1-7d419ef23678</testCaseGuid>
+</TestCaseEntity>

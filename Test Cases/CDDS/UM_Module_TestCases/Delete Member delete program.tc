@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Member delete program</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb6d1b1d-e2fd-463a-8414-e3275354e5c7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1608ab0c-454e-47b0-b701-594d6bf5934a</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>897f9116-3f1c-4406-87fa-39b783336de3</id>
+      <masked>false</masked>
+      <name>Id</name>
+   </variable>
+</TestCaseEntity>

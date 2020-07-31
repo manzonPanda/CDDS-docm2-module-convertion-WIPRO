@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DisableRequest_NRPND_Obj</name>
+   <tag></tag>
+   <elementGuidId>2a62fb0e-afd9-4635-95fd-c038c3db5da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name=&quot;DisbReqForNewRPAndDel&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name=&quot;DisbReqForNewRPAndDel&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

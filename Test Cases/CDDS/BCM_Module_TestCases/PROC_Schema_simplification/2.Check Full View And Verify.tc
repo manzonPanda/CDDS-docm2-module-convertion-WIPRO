@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.Check Full View And Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7da28d84-5fad-44db-ac12-75d48e9d11f1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5d58b62-0f4d-4574-b480-402c46e7e2a5</id>
+      <masked>false</masked>
+      <name>Project</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed7e46b8-e0ae-4fc6-8b64-0e5c1856606e</id>
+      <masked>false</masked>
+      <name>Project_Header</name>
+   </variable>
+</TestCaseEntity>

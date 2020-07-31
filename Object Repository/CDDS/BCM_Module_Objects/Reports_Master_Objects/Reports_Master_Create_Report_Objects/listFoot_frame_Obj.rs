@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listFoot_frame_Obj</name>
+   <tag></tag>
+   <elementGuidId>8ce12905-59e5-4388-9e8d-7e3e274fbd59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//frame[@name = 'listFoot']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//frame[@name=&quot;listFoot&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>frame</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>listFoot</value>
+   </webElementProperties>
+</WebElementEntity>

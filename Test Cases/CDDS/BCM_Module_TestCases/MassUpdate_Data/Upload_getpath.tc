@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload_getpath</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d024ac5a-9d85-4c6a-988c-cbf7598808cf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30b122e6-b4c3-4ed3-84aa-5f1ce59863d0</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

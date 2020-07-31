@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_My_Inbox</name>
+   <tag></tag>
+   <comment>1.Criteria-Contains All,Keyword-PM_Test_Bug_5,Title-ON
+2.Criteria-Contains All,Keyword-PM_Test_Bug_5,Title-ON,Type-Bug
+3.Criteria-Contains Any,Keyword-PM_Test_Bug_5,Title-ON,state-Assigned,Severity-3 Medium
+4.Criteria-Exact Match,Severity-3 Medium,Team-BCM-Action-2
+5.Criteria-Substring Match,Type-Bug,My Element-Submitted By,State-Assigned
+6.Criteria-Contains All,Keyword-PM_Test_Bug_5,Title-ON,My Elements-Submitted By,Type-Bug
+7.Team-PM_BCM_Action_2
+8.Criteria-Contains All,Keyword-&amp;^&amp;*^*&amp;^(*&amp;^*&amp;,Title-ON,My Elements-Submitted By,Type-Bug</comment>
+   <testCaseGuid>026da403-a890-4791-9a0c-60998b20a0db</testCaseGuid>
+</TestCaseEntity>

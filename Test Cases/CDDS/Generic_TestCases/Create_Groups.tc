@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1a26c07-6227-43c3-884c-694a22ace0fe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f01a8371-7312-4a2f-a9a7-65022275f4dd</id>
+      <masked>false</masked>
+      <name>GroupName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abdcd1c1-5103-4b6e-b81d-09da3296317e</id>
+      <masked>false</masked>
+      <name>Company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e35e2dac-8004-48df-ac12-c3719d460c33</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

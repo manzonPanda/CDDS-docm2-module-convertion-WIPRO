@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Bug_Generic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>332fec1a-6ce9-4ec9-8b79-4eb2315e1517</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a249ec45-0029-4b8c-9556-8f56b8f5dced</id>
+      <masked>false</masked>
+      <name>val</name>
+   </variable>
+   <variable>
+      <defaultValue>30</defaultValue>
+      <description></description>
+      <id>1e286dc5-8e8b-48ed-a6ad-ea7db3f0a766</id>
+      <masked>false</masked>
+      <name>wait</name>
+   </variable>
+</TestCaseEntity>

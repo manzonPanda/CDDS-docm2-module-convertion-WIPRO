@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>State_Validation_Create_Incident_with_all_access roles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb24be17-4312-4492-9e5c-60ec4bd40e2d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb5547b8-1f22-499f-8106-fdfbde2a60d9</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b762714-eefd-4ae6-b134-6fb766f5ce76</id>
+      <masked>false</masked>
+      <name>Keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eae6abe9-1111-4024-b39a-9b35585a606b</id>
+      <masked>false</masked>
+      <name>TestCase</name>
+   </variable>
+</TestCaseEntity>

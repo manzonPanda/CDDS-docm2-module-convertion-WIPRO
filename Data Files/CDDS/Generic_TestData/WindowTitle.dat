@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>WindowTitle</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>282af2da-a0f3-4721-8b61-dfa341a1559e</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>CDDS%3A+TI+Collaborative+Design+%26+Delivery+System</data>
+   <data>Add+Members</data>
+   <data>CDDS%3A+Texas+Instruments+Collaborative+Design+%26+Delivery+System</data>
+   <data>Company+Search</data>
+   <data>Add+Member</data>
+   <data>Add+Access</data>
+   <data>Search%3APerson</data>
+   <data>Create+Bug</data>
+   <data>Add+Members</data>
+   <data>Search+%3A+Project</data>
+   <data>Edit+Auto+Assignment</data>
+   <data>Related+Label</data>
+   <data>Project+Search</data>
+   <data>Edit+Project+Classification</data>
+   <data>Edit+Members</data>
+   <data>Add+Members</data>
+   <data>Search%3A+Project</data>
+   <data>Select+Approver%28s%29</data>
+   <data>null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>WindowName</name>
+      <size>19</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

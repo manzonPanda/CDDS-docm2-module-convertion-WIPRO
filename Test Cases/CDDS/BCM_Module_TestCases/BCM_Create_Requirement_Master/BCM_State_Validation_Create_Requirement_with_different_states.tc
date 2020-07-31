@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Create_Requirement_with_different_states</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0db3f1a2-cca6-4f56-860a-9cad238b3855</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('CDDS/BCM_Module_TestData/BCM_Create_Requirement_Master_TestData/BCM_State_Validation_Create_Requirement_with_different_states_TestData').getValue('Team_Name', 1)</defaultValue>
+      <description></description>
+      <id>27b675ed-6354-45b3-8269-e76535e5c619</id>
+      <masked>false</masked>
+      <name>GetTeam</name>
+   </variable>
+</TestCaseEntity>

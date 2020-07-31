@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Create_Requirement_for_all_access_roles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6eba1af8-db35-49c7-9174-93b7859f3cf0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('CDDS/BCM_Module_TestData/BCM_Create_Requirement_Master_TestData/BCM_State_Validation_Create_Requirement_for_all_access_roles_TestData').getValue('Team_Name', 1)</defaultValue>
+      <description></description>
+      <id>bfdef347-10a9-4a59-9acc-e755e1baac6a</id>
+      <masked>false</masked>
+      <name>GetTeam</name>
+   </variable>
+</TestCaseEntity>

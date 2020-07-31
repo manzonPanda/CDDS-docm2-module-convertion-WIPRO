@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Non_Support_Role_User_id</description>
+      <initValue>'x1048749'</initValue>
+      <name>Non_Support_Role_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Support_Role_User_id</description>
+      <initValue>'x1049683'</initValue>
+      <name>Support_Role_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'5Ed5CIkj9UQfaMZXAkDVaQ=='</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Wait for few Seconds</description>
+      <initValue>3</initValue>
+      <name>Short_Wait</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Wait for few Seconds</description>
+      <initValue>10</initValue>
+      <name>Wait_Time</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Element_Timeout</description>
+      <initValue>180</initValue>
+      <name>Element_Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>CDDS Application Url</description>
+      <initValue>'http://fllv0058.itg.ti.com:8001/ematrix/emxLogin.jsp'</initValue>
+      <name>Application_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>currentTestCaseId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'xt099437'</initValue>
+      <name>User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>test</description>
+      <initValue>'a0866112'</initValue>
+      <name>Non_Member</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>test</description>
+      <initValue>'http://fllv0058.itg.ti.com:8001/ematrix/emxLogin.jsp\r\n'</initValue>
+      <name>Automation_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

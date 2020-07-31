@@ -1,0 +1,9 @@
+Jul 22, 2019 - Stack Overflow handling in HotSpot JVM. As you probably know, HotSpot JVM has one-to-one mapping of Java threads to OS threads. ... Java Virtual Machine Stack, which stores local variables and keeps track of method invocations. As the specification says, this stack does not need to be contiguous and may be heap allocated.
+Missing: architecture ?| Must include: architecture
+Java Heap Space vs Stack - Memory Allocation in Java ...
+https://www.journaldev.com › Interview Questions
+Heap vs Stack, Memory model in java, Memory Management, stack vs heap, ... Java Heap space is used by java runtime to allocate memory to Objects and JRE ...
+Chapter 2. The Structure of the Java Virtual Machine
+https://docs.oracle.com › javase › specs › jvms › html › jvms-2
+The memory for a Java Virtual Machine stack does not need to be contiguous. ... stack than is permitted, the Java Virtual Machine throws a StackOverflowError . ..... 1993 Conference on Functional Programming and Computer Architecture, ...
+What actually causes a StackOverflow error in Java?

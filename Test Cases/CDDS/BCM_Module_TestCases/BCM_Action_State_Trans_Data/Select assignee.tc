@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select assignee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63133059-23be-4953-87aa-4ca9d6fce39d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a464059-d8de-4b4e-b622-e11ffdddf4f8</id>
+      <masked>false</masked>
+      <name>Target</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2fdfb3a2-5264-47ce-8c91-f074d2c4d3d8</id>
+      <masked>false</masked>
+      <name>Team</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46d922d3-5a01-4153-8c1c-c395bac01610</id>
+      <masked>false</masked>
+      <name>Assignee</name>
+   </variable>
+</TestCaseEntity>

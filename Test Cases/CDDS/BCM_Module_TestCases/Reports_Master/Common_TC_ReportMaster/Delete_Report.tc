@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete_Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c346e6f2-4c96-46f6-9864-130b7c0608e5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e34bc54c-c320-4012-8a7b-e3367a3268ce</id>
+      <masked>false</masked>
+      <name>Expected_ReportName</name>
+   </variable>
+</TestCaseEntity>

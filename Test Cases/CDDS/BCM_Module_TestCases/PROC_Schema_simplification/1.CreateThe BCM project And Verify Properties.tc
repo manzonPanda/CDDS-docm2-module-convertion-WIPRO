@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.CreateThe BCM project And Verify Properties</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>809fb62c-9538-4378-acff-c97364af9499</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dbd8b719-fad1-46b1-ae74-a80fd1c5c12b</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87f6c60e-1c98-414d-a6b2-976b622c67b8</id>
+      <masked>false</masked>
+      <name>Project_Header</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>BCM_Requirement_State_Trans_Deferred_State</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>11fe86c8-1fdb-40e3-895b-64a06c1fabbe</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Requirement_Deffered_State a0393692 Assign%3AAssigned Comments 1-High New+Feature</data>
+   <data>null x0104746 Assigned%3A CCB+Feedback Major+Break Sub+Classification</data>
+   <data>null null Assess%3AAssessed null 1 null</data>
+   <data>null null Assessed null 2 null</data>
+   <data>null null Assessed%3A null 3 null</data>
+   <data>null null Defer%3ADeferred null 4 null</data>
+   <data>null null Deferred null 5 null</data>
+   <data>null null Deferred%3A null 6 null</data>
+   <data>null null Assigned null Worked+days null</data>
+   <data>null null New null 7 null</data>
+   <data>null null null null 8 null</data>
+   <data>null null null null 9 null</data>
+   <data>null null null null Mbits null</data>
+   <data>null null null null 20 null</data>
+   <data>null null null null 30 null</data>
+   <data>null null null null 40 null</data>
+   <data>null null null null W null</data>
+   <data>null null null null 10 null</data>
+   <data>null null null null 11 null</data>
+   <data>null null null null 12 null</data>
+   <data>null null null null 13 null</data>
+   <data>null null null null 14 null</data>
+   <data>null null null null 15 null</data>
+   <data>null null null null 16 null</data>
+   <data>null null null null 17 null</data>
+   <data>null null null null 18 null</data>
+   <data>null null null null None null</data>
+   <data>null null null null None null</data>
+   <data>null null null null technical_req null</data>
+   <data>null null null null Approve null</data>
+   <data>null null null null impacts_req null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Requirement_Creation</name>
+      <size>31</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>UserID</name>
+      <size>31</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>State</name>
+      <size>31</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Comments</name>
+      <size>31</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Properties</name>
+      <size>31</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Clasification</name>
+      <size>31</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create_Obj</name>
+   <tag></tag>
+   <elementGuidId>f93714e5-e429-4091-8447-f748e38c51d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='Create...']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[text()='Create']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='Create...']</value>
+   </webElementProperties>
+</WebElementEntity>

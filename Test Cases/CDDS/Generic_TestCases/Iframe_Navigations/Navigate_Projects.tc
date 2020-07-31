@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate_Projects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be36b735-0db2-4e19-8fc7-6db78f3032cc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16560dea-ab54-4b30-b2d0-e61063d432a0</id>
+      <masked>false</masked>
+      <name>MainMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11e89734-3a3c-4fea-8eec-de619eb275b6</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

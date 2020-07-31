@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>BCM_Edit_Functionality_Confirmed_State</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5e78465e-4124-4f77-9b04-46c0283453fd</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>x1049683 BCM_Incident_Katalon_ProjectAccess ProjectAccess All+Projects null Incident Any null null ADS-INDIA BCM+Basic</data>
+   <data>x1048749 BCM_Incident_Katalon_PMAccess PMAccess All+Projects null Incident Any null null ADS-INDIA BCM+Basic</data>
+   <data>a0131608 BCM_Incident_Katalon_Submitter Submitter All+Projects null Incident Any null null AEC-HW BCM+HW</data>
+   <data>x0263778 BCM_Incident_Katalon_ProjectOwner ProjectOwner All+Projects x0263778 Incident Any BCM_Incident_projectOwner 1-Urgent ADS-INDIA BCM+Basic</data>
+   <data>x0263778 BCM_Incident_Assigned_Assignee Assignee All+Projects x0263778 Incident Any BCM_Incident_assignee 1-Urgent ADS-INDIA BCM+Basic</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>UserID</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Project_Name</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Role</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Project</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Assignee</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Type</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>StateCheck</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>Description</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>Priority</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>9</columnIndex>
+      <name>BU</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>10</columnIndex>
+      <name>Associate_schema</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

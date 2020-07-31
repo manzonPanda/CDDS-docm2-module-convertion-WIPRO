@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify_project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>633c6b28-5022-4fa0-8bf3-135760bdc78a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efacb504-4e8f-407e-bbb9-b2ab64ca80b5</id>
+      <masked>false</masked>
+      <name>Type</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>234c52b1-4010-450a-a206-d305811e02ea</id>
+      <masked>false</masked>
+      <name>State_type</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e639949-e339-4ddd-af0e-752f091e92bc</id>
+      <masked>false</masked>
+      <name>Keyword</name>
+   </variable>
+</TestCaseEntity>

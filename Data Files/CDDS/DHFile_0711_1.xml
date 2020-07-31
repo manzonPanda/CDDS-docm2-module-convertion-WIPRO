@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CDDS-Release.xsd">
+	<CMSystem>ClearCase</CMSystem>
+	<CMPath>UM_IC_004_CMPath</CMPath>
+	<CMLabel>Label3</CMLabel>
+</Release>

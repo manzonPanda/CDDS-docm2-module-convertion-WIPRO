@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Global_Report_Project_Search</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d27a8dbf-8753-4653-8378-2c294dad08c4</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>WTBU_1_Standalone_Project1 WTBU-HW My+Projects Ahmad%2C+Shaeq WTBU_1_Standalone_Project1_Abbr1</data>
+   <data>Nothing All All+Projects Nothing Nothing</data>
+   <data>* null null * *</data>
+   <data>WTBU_1_Standalone_Project1* null null null WTBU_1_Standalone_Project1_Abbr*</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>ProjectName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>BusinessUnit</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>ShowProjects</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>ProjectOwner</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>ProjectAbbreviation</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TI_Company_Obj</name>
+   <tag></tag>
+   <elementGuidId>a250d94a-b883-4c8c-9eae-e8d9cb722aff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form[@name=&quot;emxTableForm&quot;]/..//tr[2]//td[contains(.,'TI')]/../..//a[contains(.,'Company')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form[@name=&quot;emxTableForm&quot;]/..//tr[2]//td[contains(.,'TI')]/../..//a[contains(.,'Company')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54454dfc-ac78-48bf-b29d-09d02c1d47fd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6539258-37c7-41fc-8606-5ab40cfa1979</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87f25e95-628f-4b10-95ea-35e3cae98e63</id>
+      <masked>false</masked>
+      <name>TeamName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6c8b76f-167f-4837-9f21-c68e7d1d67b7</id>
+      <masked>false</masked>
+      <name>TeamDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>72bf01fa-48fc-459f-9387-221306d85bf7</id>
+      <masked>false</masked>
+      <name>TeamBaseSite</name>
+   </variable>
+</TestCaseEntity>

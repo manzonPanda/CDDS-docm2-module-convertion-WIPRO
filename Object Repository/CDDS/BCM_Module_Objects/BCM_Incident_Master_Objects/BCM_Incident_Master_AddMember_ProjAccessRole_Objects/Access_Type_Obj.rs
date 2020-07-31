@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Access_Type_Obj</name>
+   <tag></tag>
+   <elementGuidId>cb2336a6-d74d-4d85-a82b-794414b919c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table[@id=&quot;BCMProjectTeamMembersAccess&quot;]//tr[2])//td[5]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id=&quot;BCMProjectTeamMembersAccess&quot;]//tr[2])//td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table[@id=&quot;BCMProjectTeamMembersAccess&quot;]//tr[2])//td[5]</value>
+   </webElementProperties>
+</WebElementEntity>

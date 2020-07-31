@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UMCBusinessUnitProperties_Iframe_Obj</name>
+   <tag></tag>
+   <elementGuidId>d2160457-1999-454b-976b-bc3db7940fe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//iframe[@name=&quot;UMCBusinessUnitProperties&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//iframe[@name=&quot;UMCBusinessUnitProperties&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

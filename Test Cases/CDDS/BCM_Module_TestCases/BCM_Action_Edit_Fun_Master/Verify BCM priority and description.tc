@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify BCM priority and description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0afaa81f-c93e-4a7d-99c7-34ad63433e23</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd9f29aa-9629-4d54-9e0f-b0d2a873019f</id>
+      <masked>false</masked>
+      <name>Priority</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>641e6332-3e00-480c-b070-4571d76f787e</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

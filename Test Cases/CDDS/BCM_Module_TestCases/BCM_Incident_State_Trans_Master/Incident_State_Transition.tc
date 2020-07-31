@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Incident_State_Transition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>286240d8-bc71-4f8f-b0a5-4f3750876820</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9283ccc0-784a-4d88-955c-23a03bb4518f</id>
+      <masked>false</masked>
+      <name>Keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>85f3561e-5a29-4dd5-a61e-3d3cb3888dfe</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce84a79e-8f21-4230-9ee7-a9c207eb8639</id>
+      <masked>false</masked>
+      <name>Assignee</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82a45e5d-039a-4f9a-b475-1275af651598</id>
+      <masked>false</masked>
+      <name>ResolutionDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>620fb6a0-63f1-4a7c-83ae-bd398458d561</id>
+      <masked>false</masked>
+      <name>ExpectedState</name>
+   </variable>
+</TestCaseEntity>

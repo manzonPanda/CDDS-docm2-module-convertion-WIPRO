@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadBugs__In_Project_ThroughMassUpdate_From_New_To_Assigned</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbadba54-0639-4861-994f-0b9bdc91aeb6</testCaseGuid>
+</TestCaseEntity>

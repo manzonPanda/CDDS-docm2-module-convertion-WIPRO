@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_Create_Requirement_Master_Create_Team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f91ca27-80d7-4c88-8c53-9b32f0885e0e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('CDDS/BCM_Module_TestData/BCM_Create_Requirement_Master_TestData/BCM_Create_Requirement_Master_Create_Team_TestData').getValue('Team_Name', 1)</defaultValue>
+      <description></description>
+      <id>97bdee63-6546-4e48-a7c2-1de12f8e42df</id>
+      <masked>false</masked>
+      <name>GetTeam</name>
+   </variable>
+</TestCaseEntity>

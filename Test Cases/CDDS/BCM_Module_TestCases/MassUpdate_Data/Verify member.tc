@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e840019-50e9-4860-b896-9907855f64a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73148d63-b084-4e03-aa07-cd505e471cc2</id>
+      <masked>false</masked>
+      <name>member</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDDS_7493_Verify Created Bugs are avilable in Team_7493_2_BCM_State_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb0ad3e1-cc89-4a3e-b754-40b8db2eac97</testCaseGuid>
+</TestCaseEntity>

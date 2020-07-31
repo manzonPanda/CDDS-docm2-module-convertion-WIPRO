@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Edit_Functionality_Assessed_State</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80feed6e-c365-4a9f-bedc-404a863eefdb</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('CDDS/BCM_Module_TestData/BCM_Requirment_Edit_Functionality_Master_TestData/BCM_State_Validation_Edit_Functionality_Assessed_State_TestData').getValue('Team_Name', 1)</defaultValue>
+      <description></description>
+      <id>27a8c04e-2744-4858-aeea-a4de4e3dcf41</id>
+      <masked>false</masked>
+      <name>Expected_Team</name>
+   </variable>
+</TestCaseEntity>

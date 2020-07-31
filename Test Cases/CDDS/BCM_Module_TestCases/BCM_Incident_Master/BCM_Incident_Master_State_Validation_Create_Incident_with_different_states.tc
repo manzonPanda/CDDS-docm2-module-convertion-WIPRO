@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_Incident_Master_State_Validation_Create_Incident_with_different_states</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d832791b-d229-461b-ad3f-b952d23afbdf</testCaseGuid>
+</TestCaseEntity>

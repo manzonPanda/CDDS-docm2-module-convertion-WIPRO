@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BCM_State_Validation_Create_Edit_Remove_Project_in_ProjectGroup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9188179-9e94-4c31-b69c-77cf43c779f6</testCaseGuid>
+</TestCaseEntity>

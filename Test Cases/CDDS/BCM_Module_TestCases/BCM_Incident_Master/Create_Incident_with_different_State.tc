@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Incident_with_different_State</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6c16d0b-4060-4ffc-a9b1-d26da20a36fc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdb7c03e-ff36-4985-850c-ddbb705d88a1</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91e1b655-1170-4771-8074-4c449fec9c8f</id>
+      <masked>false</masked>
+      <name>Keyword</name>
+   </variable>
+</TestCaseEntity>

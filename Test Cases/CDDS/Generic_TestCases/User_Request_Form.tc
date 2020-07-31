@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User_Request_Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>479d09f9-5519-4be0-9039-e1e67ef91396</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b16e002-8e29-46f9-b20e-86d3f35c5b8b</id>
+      <masked>false</masked>
+      <name>Company</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>874c7b04-1b65-492a-b46c-a844d9d6752a</id>
+      <masked>false</masked>
+      <name>BusinessUnit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>089cc23c-f12c-402e-8350-271f6c048bd9</id>
+      <masked>false</masked>
+      <name>UserId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07c44ea0-a2db-4875-94b2-d888290cb758</id>
+      <masked>false</masked>
+      <name>CDDSRoles</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b99398cb-d19e-47f6-89b9-3d93ee7109c8</id>
+      <masked>false</masked>
+      <name>FileSites</name>
+   </variable>
+</TestCaseEntity>

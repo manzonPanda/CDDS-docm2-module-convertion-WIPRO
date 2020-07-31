@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigate _MainModule_By_Id_to_Sub_Module_By_Text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9bed493-e71e-4a2b-be79-b6aaeab2a0ce</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d65d797-b008-46a0-9e83-4ad4a94f9b1d</id>
+      <masked>false</masked>
+      <name>MainMenu</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b1a7ef9-9aa7-41a8-aa78-298ec101fb0a</id>
+      <masked>false</masked>
+      <name>SubMenu</name>
+   </variable>
+</TestCaseEntity>

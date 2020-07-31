@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete_Team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57df86ce-c0cc-4142-b85c-3979f6212a7c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1822b11-104f-4513-85b6-44cdcebb9ec6</id>
+      <masked>false</masked>
+      <name>Expected_Team</name>
+   </variable>
+</TestCaseEntity>

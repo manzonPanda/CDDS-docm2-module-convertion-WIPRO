@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Requirement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aff85c16-2c41-4613-9544-aa8e3eb4f58d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>69d77ce1-5a76-4e86-a2f3-2573643946ed</id>
+      <masked>false</masked>
+      <name>On_Behalf_Of</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6504b68-e500-4e2b-9cb8-f4b4931a0a1f</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>916071d0-ef7f-4dc7-aa07-9c3dce95be92</id>
+      <masked>false</masked>
+      <name>Priority</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bddb0b1b-e984-4e50-a5b1-284969ef4520</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11bb1420-58df-4765-945d-477011d972fb</id>
+      <masked>false</masked>
+      <name>Team_Name</name>
+   </variable>
+</TestCaseEntity>

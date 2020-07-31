@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Configure_Auto_Assignment_For_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3acaffa1-e21c-4484-9330-2e06b2698552</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('CDDS/BCM_Module_TestData/BCM_Validation_Master_TestData/Configure_Auto_Assignment_For_User_Datafile').getValue('Wait', 1)</defaultValue>
+      <description></description>
+      <id>2815c45c-a554-4ba1-9479-7a899e41d4c1</id>
+      <masked>false</masked>
+      <name>wait</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update xml file</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cd49dc1-9972-4005-833f-3fab886d5d9f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7872cf5-1f29-4cff-b0d5-b3792b58f81c</id>
+      <masked>false</masked>
+      <name>Filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9502b47d-26cb-449b-8c68-3f2cac0a0795</id>
+      <masked>false</masked>
+      <name>CMSystem1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77aaefdc-46d4-4df1-8c0c-db00ea881739</id>
+      <masked>false</masked>
+      <name>CMSystem2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4472b27b-51a8-48db-9a23-1347b9819cc7</id>
+      <masked>false</masked>
+      <name>CMpath1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>875d2138-3fb5-4d46-ba16-6641712fc9c4</id>
+      <masked>false</masked>
+      <name>CMpath2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c960969f-9ce3-4511-831e-da4f75e0a923</id>
+      <masked>false</masked>
+      <name>CMLabel1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f596d5b0-d5b3-4fe3-ade8-41d64077236d</id>
+      <masked>false</masked>
+      <name>CMLabel2</name>
+   </variable>
+</TestCaseEntity>

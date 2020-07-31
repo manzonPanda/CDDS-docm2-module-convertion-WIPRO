@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5.Check Bug_ReVerify Properties</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b983ef8-b7d2-4e8a-9af2-034a6924051f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ea0c38e-5eae-4def-8ece-b58562b574ce</id>
+      <masked>false</masked>
+      <name>ProjectName_Header</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13aa8f21-1788-47a4-b802-5f61750ab58b</id>
+      <masked>false</masked>
+      <name>ProjectName</name>
+   </variable>
+</TestCaseEntity>

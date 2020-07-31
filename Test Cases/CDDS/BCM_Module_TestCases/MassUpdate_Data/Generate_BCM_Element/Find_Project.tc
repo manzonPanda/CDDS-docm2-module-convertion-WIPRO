@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find_Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16674cbf-76b6-4c4d-9db1-662917ce0f62</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdfbf0f4-c90d-408b-b0a2-eb869fa323fc</id>
+      <masked>false</masked>
+      <name>Project_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62053d1d-d153-4818-b968-eb797c922c38</id>
+      <masked>false</masked>
+      <name>Select_Project</name>
+   </variable>
+</TestCaseEntity>
