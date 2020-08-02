@@ -46,7 +46,7 @@ WebUI.delay(GlobalVariable.Wait_Time)
 'Navigate to MyDesk tab'
 WebUI.callTestCase(findTestCase('CDDS/Generic_TestCases/Navigate_to_MyDesk_Tab'), [:], FailureHandling.STOP_ON_FAILURE)
 
-'Click DOCM MainMenu and Documents and Unmanaged Data SubMenu'
+'Click DRMyDesk and IC'
 WebUI.callTestCase(findTestCase('CDDS/Generic_TestCases/Navigate _MainModule_By_Id_to_Sub_Module_By_Text'), [('MainMenu') : 'DRCMyDesk'
 		, ('SubMenu') : 'IC'], FailureHandling.STOP_ON_FAILURE)
 

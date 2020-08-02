@@ -99,7 +99,8 @@ WebUI.click(findTestObject('CDDS/DOCM2_Module_Objects/Create_Document_Objects/Ic
 WebUI.delay(GlobalVariable.Wait_Time)
 
 'new window opened'
-WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 4))
+WebUI.switchToWindowIndex(2)
+//WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 4))
 WebUI.maximizeWindow()
 
 'Navigate to listFilter frame'
@@ -194,7 +195,8 @@ WebUI.click(findTestObject('CDDS/DOCM2_Module_Objects/Create_Document_Objects/Ic
 
 //new window opened
 'Switch to Select Reviewer window'
-WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 5))
+WebUI.switchToWindowIndex(2)
+//WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 5))
 WebUI.maximizeWindow()
 
 'Switch to ListFilter frame'
@@ -256,7 +258,8 @@ WebUI.click(findTestObject('CDDS/DOCM2_Module_Objects/Create_Document_Objects/Ic
 
 //new window opened
 'Switch to Select Approver window'
-WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 3))
+WebUI.switchToWindowIndex(2)
+//WebUI.switchToWindowTitle(findTestData('CDDS/DOCM2_Module_TestData/Create_Document/WindowTitle').getValue('WindowName', 3))
 WebUI.maximizeWindow()
 
 'Switch to ListFilter frame'
@@ -342,7 +345,7 @@ WebUI.delay(60)
 WebUI.delay(GlobalVariable.Short_Wait)
 
 'Close all Browsers'
-WebUI.closeWindowIndex(0)
+WebUI.closeWindowIndex(1)
 WebUI.closeWindowIndex(0)
 
 //Verify Doument Created or not

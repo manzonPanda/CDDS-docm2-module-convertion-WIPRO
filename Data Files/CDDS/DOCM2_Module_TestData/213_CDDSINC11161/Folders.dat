@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Folders</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>54164351-9bdc-4f7e-9cd8-7ea1b144559b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Folder_F5 Folder_F5_Descr WTBU-SW Link_F5</data>
+   <data>Folder_F6 Folder_F6_Descr WTBU-SW Link_F6</data>
+   <data>Folder_F7 Folder_F7_Descr WTBU-SW Link_F7</data>
+   <data>Folder_F8 Folder_F8_Descr WTBU-SW null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>FolderTitle</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>FolderDescription</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>BusinessUnit</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Link</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
