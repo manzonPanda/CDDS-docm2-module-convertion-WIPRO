@@ -60,10 +60,10 @@ WebUI.callTestCase(findTestCase('CDDS/Generic_TestCases/Action_Navigation_Frame'
 WebUI.click(findTestObject('CDDS/Generic_Objects/Common_Objects/Actions_Btn_Obj'), FailureHandling.STOP_ON_FAILURE)
 
 'Wait for Create  element to be visible'
-WebUI.waitForElementVisible(findTestObject('CDDS/Generic_Objects/Common_Objects/Create_Obj'), GlobalVariable.Element_Timeout)
+WebUI.waitForElementVisible(findTestObject('CDDS/DOCM2_Module_Objects/210_CDDSINC09396_Objects/Create_Obj'), GlobalVariable.Element_Timeout)
 
 'Click on  Create'
-WebUI.click(findTestObject('CDDS/Generic_Objects/Common_Objects/Create_Obj'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('CDDS/DOCM2_Module_Objects/210_CDDSINC09396_Objects/Create_Obj'), FailureHandling.STOP_ON_FAILURE)
 
 'Navigate to User Page frame'
 WebUI.callTestCase(findTestCase('CDDS/Generic_TestCases/Page_Navigation_Frame'), [:], FailureHandling.STOP_ON_FAILURE)
